@@ -1,2 +1,2 @@
 # PrivacyPolicy
-Link for Private policy on my app
+No Data is collected from you by this app for the time being, carry on.
